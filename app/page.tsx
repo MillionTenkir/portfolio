@@ -245,7 +245,7 @@ export default function Portfolio() {
         id="home"
         className="pt-20 min-h-screen flex items-center relative overflow-hidden"
       >
-        <div className="max-w-7xl mx-auto px-6 lg:px-8 py-20 relative z-10">
+        <div className="max-w-7xl mx-auto px-6 lg:px-8 lg:py-20 relative z-10">
           <div className="grid lg:grid-cols-2 gap-16 items-center">
             <div className="space-y-10">
               <div className="space-y-6">
